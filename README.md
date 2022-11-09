@@ -35,5 +35,5 @@
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimalka-heshan&show_icons=true&locale=en&layout=compact" alt="dimalka-heshan" />&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dimalka-heshan&show_icons=true&locale=en" alt="dimalka-heshan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimalka-heshan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dimalka-heshan" />&nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dimalka-heshan&show_icons=true&locale=en&theme=dracula" alt="dimalka-heshan" />
