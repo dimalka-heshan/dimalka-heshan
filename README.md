@@ -35,5 +35,5 @@
   ![Snake animation](https://github.com/dimalka-heshan/dimalka-heshan/blob/output/github-contribution-grid-snake.svg)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20128418&show_icons=true&locale=en&layout=compact" alt="it20128418" />&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=it20128418&show_icons=true&locale=en" alt="it20128418" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimalka-heshan&show_icons=true&locale=en&layout=compact" alt="dimalka-heshan" />&nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dimalka-heshan&show_icons=true&locale=en" alt="dimalka-heshan" />
