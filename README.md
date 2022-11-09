@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20128418&label=Profile%20views&color=0e75b6&style=flat" alt="it20128418" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dv0e2cfok/video/upload/v1668027047/My%20Stuff/108333-coding_we8sak.mp4">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dv0e2cfok/image/upload/v1668028264/My%20Stuff/104286-coding-screen_tteipp.gif">
 - 🔭 I’m currently studing on **SLIIT**
 
 - 🌱 I’m currently learning **MERN stack**
