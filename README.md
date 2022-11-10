@@ -43,3 +43,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimalka-heshan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dimalka-heshan" />&nbsp;
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dimalka-heshan&show_icons=true&locale=en&theme=dracula" alt="dimalka-heshan" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
