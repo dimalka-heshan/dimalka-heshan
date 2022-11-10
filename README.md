@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dimalka Heshan</h1>
 <h3 align="center">Programmer | Gamer | Traveler</h3>
 
+<p align="right"><img src="https://res.cloudinary.com/dv0e2cfok/image/upload/v1668046757/animation_500_laafw09x_zeiozi.gif" /></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=it20128418&label=Profile%20views&color=0e75b6&style=flat" alt="it20128418" /></p>
 
