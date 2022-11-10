@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=it20128418&label=Profile%20views&color=0e75b6&style=flat" alt="it20128418" /></p>
-<p align="right"><img src="https://res.cloudinary.com/dv0e2cfok/image/upload/v1668028966/My%20Stuff/animation_500_laa5d52j_vdcjjq.gif" /></p>
+<p align="right"><img src="https://res.cloudinary.com/dv0e2cfok/image/upload/v1668048473/My%20Stuff/animation_500_laagyzy9_mgubhm.gif" /></p>
 
 - 🔭 I’m currently studing on **SLIIT**
 
